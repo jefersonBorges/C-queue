@@ -20,7 +20,7 @@ These exercises are a practice of C language inside the discipline of data struc
 
 ---
 
-## Arrays - Exercises
+## Queues - Exercises
 
 ---
 
