@@ -1,8 +1,8 @@
-# About
+# 💬 About
 
 These exercises are a practice of C language inside the discipline of data structure 1, belonging to the course of Computer Engineering.
 
-## content
+## 👨🏽‍💻 C Content
 
 - sequential queue
 - chain queue
@@ -17,6 +17,12 @@ These exercises are a practice of C language inside the discipline of data struc
 - scanf()
 - fflush()
 - free()
+
+---
+
+## 🎯 Project objectives
+
+- Practice of C language queues.
 
 ---
 
